@@ -1,0 +1,19 @@
+table {
+    border: 1px solid gold;
+}
+
+td:hover {
+    background-color: aqua;
+    color: fuchsia
+}
+
+tr, th {
+    background-color: dodgerblue;
+    color: chartreuse;
+}
+
+tr, td {
+    background-color: peachpuff;
+    color: darkgoldenrod;
+}
+
